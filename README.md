@@ -29,4 +29,3 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 | **CSS3** | Estilização da interface, tornando-a visualmente agradável e responsiva (com o auxílio da fonte **Montserrat**). |
 | **JavaScript (Vanilla)** | Toda a lógica de geração de senhas, manipulação do DOM e a funcionalidade de copiar para a área de transferência. |
 
-
